@@ -101,3 +101,23 @@ Machine learning models can effectively predict loan default risk. Among the mod
 - Handle class imbalance using advanced techniques
 - Apply deep learning models
 - Test on real-world banking datasets
+
+
+---
+
+## 👨‍🎓 Author
+**Jaya Krishna Katta**  
+MSc Data Science  
+University of Hertfordshire  
+
+---
+
+
+## 📚 References
+- Yeh & Lien (2009)
+- Lessmann et al. (2015)
+- Chen & Guestrin (2016)
+- Brown & Mues (2012)
+- Khandani et al. (2010)
+
+---
